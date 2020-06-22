@@ -1,9 +1,9 @@
 Hello this is the github tutorial.
 
 So the commands we use are:
-git init
-git status
-git add .
-git commit -m "version 1"
-git config --global user.name "<name>"
-git config --global user.email "<email>"
+git init //To initialize the local repo as a git repository.
+git status //To check the status of this repository.
+git add . // To add the files in staging area.
+git commit -m "version 1" //To make commit 
+git config --global user.name "<name>" //To check the user belongs to this repo
+git config --global user.email "<email>" //To check the mail of user
