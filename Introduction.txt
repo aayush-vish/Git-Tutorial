@@ -1,7 +1,9 @@
 Let's get started with the github tutorial.
 
 So the commands we use are:
+The first command we are going to use is:
 git init //To initialize the local repo as a git repository.
+
 git status //To check the status of this repository.
 git add . // To add the files in staging area.
 git commit -m "version 1" //To make commit 
